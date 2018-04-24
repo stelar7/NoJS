@@ -6,7 +6,7 @@
 
 ```
 sett                   // =
-lik                   // ==
+lik                   // ===
 konstant             // const
 variabel            // var
 funksjon           // function
