@@ -1,4 +1,4 @@
-# Official repo for the NorwegianJS (NoJS) Project
+# Official repo for the NorthwayJS (NoJS) Project
 
 ## 1. Defining syntax
 
