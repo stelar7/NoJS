@@ -28,5 +28,5 @@ mens    // while
 
 The first function You will be using is logg. You can use it conjuction with ```konsoll``` to ```konsoll.logg();```
 ```
-logg                     // log
+logg                   // log
 ```
