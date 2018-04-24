@@ -5,21 +5,19 @@
 ### 1.0.1 Keywords
 
 ```
-er                       // =
-lik                     // ==
-helt lik               // ===
-konstant              // const
-variabel             // var
-la                  // let
+sett                   // =
+lik                   // ==
+konstant             // const
+variabel            // var
 funksjon           // function
 skriv             // console
 returner         // return
 matrise         // array
 objekt         // object
 streng        // string
-nummer       // integer
+heltall      // integer
 desimal     // float
-denne      // this
+selv       // this
 hvis      // if
 ellers   // else
 mens    // while
