@@ -26,7 +26,7 @@ mens    // while
 
 ### 1.0.1 Functions
 
-The first function You will be using is logg. You can use it conjuction with ```konsoll``` to ```konsoll.log();```
+The first function You will be using is logg. You can use it conjuction with ```konsoll``` to ```konsoll.logg();```
 ```
 logg                     // log
 ```
