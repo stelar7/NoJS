@@ -22,7 +22,11 @@ hvis      // if
 ellers   // else
 mens    // while
 
-### 1.0.1 Functions
-logg                     // log
 ```
 
+### 1.0.1 Functions
+
+The first function You will be using is logg. You can use it conjuction with ```konsoll``` to ```konsoll.log();```
+```
+logg                     // log
+```
