@@ -5,7 +5,7 @@
 ### 1.0.1 Keywords
 
 ```
-sett                   // =
+som                    // =
 lik                   // ===
 konstant             // const
 variabel            // let
