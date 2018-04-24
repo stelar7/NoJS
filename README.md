@@ -8,7 +8,7 @@
 sett                   // =
 lik                   // ===
 konstant             // const
-variabel            // var
+variabel            // let
 funksjon           // function
 skriv             // console
 returner         // return
