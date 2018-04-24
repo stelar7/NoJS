@@ -10,7 +10,7 @@ er                    // ===
 konstant             // const
 variabel            // let
 funksjon           // function
-skriv             // console
+konsoll           // console
 returner         // return
 matrise         // array
 objekt         // object
@@ -21,6 +21,8 @@ selv       // this
 hvis      // if
 ellers   // else
 mens    // while
-logg   // log
+
+### 1.0.1 Functions
+logg                     // log
 ```
 
