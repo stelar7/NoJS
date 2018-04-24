@@ -2,7 +2,7 @@
 
 ## 1. Defining syntax
 
-### 1.0.1 Reserved keywords
+### 1.0.1 Keywords
 
 ```
 er                       // =
@@ -13,5 +13,15 @@ variabel             // var
 la                  // let
 funksjon           // function
 skriv             // console
+returner         // return
+matrise         // array
+objekt         // object
+streng        // string
+nummer       // integer
+desimal     // float
+denne      // this
+hvis      // if
+ellers   // else
+mens    // while
 ```
 
