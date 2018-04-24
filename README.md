@@ -6,7 +6,7 @@
 
 ```
 som                    // =
-lik                   // ===
+er                    // ===
 konstant             // const
 variabel            // let
 funksjon           // function
