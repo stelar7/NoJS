@@ -23,5 +23,6 @@ denne      // this
 hvis      // if
 ellers   // else
 mens    // while
+logg   // log
 ```
 
